@@ -8,6 +8,8 @@
     background-color: black;
     color: aliceblue;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
     padding: 24px 0;
     width: 100%;
     height: 80px;
