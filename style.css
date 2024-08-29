@@ -15,24 +15,24 @@
 
 .freddy-cabecalho {
     display: flex;
-    width: 50px;
+    width: 80px;
     height: 80px;
 }
 
 .titulo-cabecalho {
-    width: 20px;
+    width: 80px;
     height: 80px;
 }
 
 .bonny-cabecalho {
-    width: 30px;
+    width: 80px;
     height: 80px;
 
 }
 
 .carrinho {
-width: 30px;
-height: 70px;
+width: 80px;
+height: 80px;
 }
 
 .section1 {
