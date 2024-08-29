@@ -10,23 +10,23 @@
     display: flex;
     padding: 24px 0;
     width: 100%;
-    height: 70px;
+    height: 80px;
 }
 
 .freddy-cabecalho {
     display: flex;
     width: 50px;
-    height: 70px;
+    height: 80px;
 }
 
 .titulo-cabecalho {
     width: 20px;
-    height: 70px;
+    height: 80px;
 }
 
 .bonny-cabecalho {
     width: 30px;
-    height: 70px;
+    height: 80px;
 
 }
 
