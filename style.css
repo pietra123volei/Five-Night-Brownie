@@ -55,7 +55,13 @@
 .frase {
     color: aliceblue
 }
- .titulo-h2{
+
+.titulo-h2 {
     color: aliceblue;
 
- }
+}
+
+.NOSSOS-SABORES {
+    background-image: linear-gradient(#861010 black);
+
+}
