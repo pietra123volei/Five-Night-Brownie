@@ -43,7 +43,7 @@ height: 80px;
 }
 
 .section1 {
-background: linear-gradient(black  red);
+background-image: linear-gradient(black red);
 }
 .todos{
 width: 500px;
