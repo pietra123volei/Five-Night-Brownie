@@ -55,7 +55,8 @@
 }
 
 .frase {
-    color: aliceblue
+    color: aliceblue;
+    margin-top: 15px;
 }
 
 .titulo-h2 {
@@ -66,8 +67,7 @@
 .container{
 display: flex;
 flex-direction: column;
-align-items: center;
-justify-content: center;
+justify-content: flex-start;
 margin-left: 10px;
 padding-left: 24px ;
 }
