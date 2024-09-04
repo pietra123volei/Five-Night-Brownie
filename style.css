@@ -64,15 +64,16 @@
 
 }
 
-.informação {
+.btn {
     cursor: pointer;
     width: 80px;
     height: 50px;
     border-radius: 15px;
     background-color: #722642;
+    color:#fff;
 }
 
-.informação:hover {
+.btn:hover {
     background-color: #833252;
     border: 1px solid #fff;
 
