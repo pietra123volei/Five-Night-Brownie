@@ -64,15 +64,29 @@
 
 }
 
-.container{
-display: flex;
-flex-direction: column;
-justify-content: flex-start;
-margin-left: 10px;
-padding-left: 24px ;
+.informação {
+    cursor: pointer;
+    width: 80px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #722642;
+}
+
+.informação:hover {
+    background-color: #833252;
+    border: 1px solid #fff;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 10px;
+    padding-left: 24px;
 }
 
 .NOSSOS-SABORES {
-    background-image: linear-gradient( #861010, #000000 );
+    background-image: linear-gradient(#861010, #000000);
 
 }
