@@ -64,7 +64,9 @@
 
 .titulo-h2 {
     color: aliceblue;
-
+    margin-top: 15px;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 .btn {
