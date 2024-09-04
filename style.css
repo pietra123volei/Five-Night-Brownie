@@ -22,7 +22,6 @@
 
 
 .freddy-cabecalho {
-    display: flex;
     width: 100px;
     height: 80px;
 }
@@ -45,6 +44,7 @@
 
 .section1 {
     background-image: linear-gradient(#000000, #861010);
+    display: flex;
 }
 
 .todos {
