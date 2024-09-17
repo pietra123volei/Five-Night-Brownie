@@ -48,11 +48,13 @@
     flex-direction: row;
     width: 100%;
     height: 600px;
+    padding: 3%;
 }
 
 .todos {
-    width: 500px;
-    height: 100px;
+    width: 300%;
+    height: 80%;
+    padding-right: 300px;
 }
 
 .frase {
@@ -61,6 +63,7 @@
     font-size: 32px;
     font-weight: bold;
     text-align: center;
+    padding-right:150px ;
 }
 
 .titulo-h2 {
@@ -70,6 +73,7 @@
     font-weight: bold;
     padding: 15px;
     text-align: center;
+    padding-right: 150px;
 }
 
 .btn {
@@ -86,11 +90,13 @@
     font-weight: bold;
     margin-top: 150px;
     margin-left: 100px;
+    padding-right: 150px;
 }
 
 .btn:hover {
     background-color: #833252;
     border: 1px solid #fff;
+
 
 }
 
@@ -100,9 +106,35 @@
     justify-content: flex-start;
     margin-left: 10px;
     padding-left: 24px;
+    padding-right: 150px;
 }
 
 .nossosSabores{
     background-image: linear-gradient(#861010, #000000);
 
+}
+
+.titulo-h3{
+text-align: center;
+font-size: 50px;
+
+
+}
+
+.chica{
+width: 20%;
+height: 15%;
+padding: 3%;
+display: flex;
+
+
+}
+.foxy{
+padding: 3%;
+width: 20%;
+display: flex;
+
+}
+.fraseChika{
+    
 }
