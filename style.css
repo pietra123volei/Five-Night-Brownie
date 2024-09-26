@@ -129,26 +129,73 @@ display: flex;
 
 
 }
-.foxy{
-padding: 3%;
-width: 20%;
-display: flex;
 
-}
 .fraseChika{
    font-size: 200%;
+   color: #fff;
   
     
 }
-
-.fraseFoxy{
-
-
+.frasesChika2{
+font-size: 150%;
+color: #fff;
 
 }
+.bntCarrinho {
+    cursor: pointer;
+    width: 50vh;
+    padding: 15px 30px;
+    border-radius: 15px;
+    background-color: #8B0000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 30px;
+       text-align: center;
+}
+
+.foxy{
+    padding: 3%;
+    width: 20%;
+    display: flex;
+    }
+
+.fraseFoxy{
+    font-size: 200%;
+color: #fff;
+}
+
+.fraseFoxy2{
+font-size: 150%;
+color: #fff;
+}
+.bntCarrinho2{
+    cursor: pointer;
+    width: 50vh;
+    padding: 15px 30px;
+    border-radius: 15px;
+    background-color: #8B0000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 30px;
+       text-align: center;
+}
+
+
 .divSabores{
     display: flex;
     flex-direction: column;
     justify-content: flex;
+   padding: 20px;
     
 }
+
+
+
